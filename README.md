@@ -71,7 +71,7 @@ each image a key to understanding the bridges between mind, matter, and the infi
   - animation guidance & reference image generation
     
 > 💡 Example project using AI-assisted development:  
-> [Akasha Codex interactive program](https://codexrapy-ayuhfkwajrjfmveagklz8e.streamlit.app/)  
+> [Codexra interactive program for Akasha Codex project](https://codexrapy-ayuhfkwajrjfmveagklz8e.streamlit.app/)  
 
 ---
 
