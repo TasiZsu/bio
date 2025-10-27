@@ -58,11 +58,20 @@ The Codex is the memory of creation —
 each image a key to understanding the bridges between mind, matter, and the infinite.
 
 
-## 🛠️ Tools
-Photoshop · Illustrator · Wix · HTML/CSS (learning Figma)
+## 🛠️ Tools & Creative Workflow
 
-**Tools:**  
-Photoshop · Illustrator · Wix · HTML/CSS basics
+- **Adobe Photoshop** – illustration, concept design  
+- **Figma (basic)** – layout and UI concept exploration  
+- **Wix** – website structure and visual editing  
+- **HTML (basic)** – classic web structure understanding  
+- **ChatGPT / AI Tools** – used for:  
+  - data & research assistance  
+  - creative ideation & storytelling  
+  - programming basics & code structure understanding  
+  - animation guidance & reference image generation
+    
+> 💡 Example project using AI-assisted development:  
+> [Akasha Codex interactive program](https://codexrapy-ayuhfkwajrjfmveagklz8e.streamlit.app/)  
 
 ---
 
