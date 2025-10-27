@@ -1,5 +1,5 @@
 
-# 🌌 Aurora Codex UI/UX Design
+# UI/UX Design
 
 ### by Suzanna Tasi – Graphic Artist, Illustrator & Aspiring Product Designer
 
