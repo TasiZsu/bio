@@ -77,4 +77,4 @@ My mission is to craft visual experiences that are both **aesthetic and meaningf
 
 - 🌍 Portfolio (coming soon): [aurora.quest](https://aurora.quest)  
 - 💬 Telegram: available upon request  
-- 🕊️ LinkedIn: [[](https://www.linkedin.com/in/zsuzsanna-tasi-6b2681136/)](#)  
+- 🕊️ LinkedIn: [linkedin](https://www.linkedin.com/in/zsuzsanna-tasi-6b2681136/)(#)  
