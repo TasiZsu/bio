@@ -1,7 +1,7 @@
 
 # UI/UX Design
 
-### by Suzanna Tasi – Graphic Artist, Illustrator & Aspiring Product Designer
+###  Graphic Artist, Illustrator & Aspiring Product Designer
 
 > *"Start by doing what's necessary, then what's possible; and suddenly you are doing the impossible."*  
 > — Saint Francis of Assisi
